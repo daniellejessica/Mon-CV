@@ -1,0 +1,26 @@
+body{margin:0%;
+     box-sizing: border-box;
+     height:100%;
+     width:100%;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.text-white{
+    margin-right: 10px;
+}
+.carousel-inner .carousel-item .carousel-caption, h1 p{
+    margin-bottom: 15%;
+    margin-right: 35%;
+}
+
+.jes1{text-align: left;
+}
+
+.card{
+
+	margin-left: 0;
+	margin-right: 0;
+}
